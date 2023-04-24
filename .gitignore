@@ -1,0 +1,251 @@
+# Project exclude paths
+/.gradle/
+/Simple Search Engine (Java)/task/build/
+/Simple Search Engine (Java)/task/out/production/classes/
+/Simple Search Engine (Java)/task/out/test/classes/
+/Topics/Abstract class/About abstract classes/out/
+/Topics/Abstract class/About abstract classes/out/production/classes/
+/Topics/Abstract class/Incorrect declaration/out/
+/Topics/Abstract class/Incorrect declaration/out/production/classes/
+/Topics/Abstract class/IntBinaryOperation/out/
+/Topics/Abstract class/IntBinaryOperation/out/production/classes/
+/Topics/Abstract class/Parts of an abstract class/out/
+/Topics/Abstract class/Parts of an abstract class/out/production/classes/
+/Topics/Abstract class/Theory/out/
+/Topics/Abstract class/Theory/out/production/classes/
+/Topics/Abstract class/Users and WebSites/out/
+/Topics/Abstract class/Users and WebSites/out/production/classes/
+/Topics/ArrayList/Adding items/out/
+/Topics/ArrayList/Adding items/out/production/classes/
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/ArrayList/How to get an element by the index/out/
+/Topics/ArrayList/How to get an element by the index/out/production/classes/
+/Topics/ArrayList/Output the list's elements/out/
+/Topics/ArrayList/Output the list's elements/out/production/classes/
+/Topics/ArrayList/Theory/out/
+/Topics/ArrayList/Theory/out/production/classes/
+/Topics/Boxing and unboxing/Identify a possible exception/out/
+/Topics/Boxing and unboxing/Identify a possible exception/out/production/classes/
+/Topics/Boxing and unboxing/Only true or false/out/
+/Topics/Boxing and unboxing/Only true or false/out/production/classes/
+/Topics/Boxing and unboxing/Theory/out/
+/Topics/Boxing and unboxing/Theory/out/production/classes/
+/Topics/Boxing and unboxing/Wrapper classes for char and int/out/
+/Topics/Boxing and unboxing/Wrapper classes for char and int/out/production/classes/
+/Topics/Command-line arguments/Command line arguments/out/
+/Topics/Command-line arguments/Command line arguments/out/production/classes/
+/Topics/Command-line arguments/How to pass ints/out/
+/Topics/Command-line arguments/How to pass ints/out/production/classes/
+/Topics/Command-line arguments/Parameters and their values/out/
+/Topics/Command-line arguments/Parameters and their values/out/production/classes/
+/Topics/Command-line arguments/The index of an argument/out/
+/Topics/Command-line arguments/The index of an argument/out/production/classes/
+/Topics/Command-line arguments/Theory/out/
+/Topics/Command-line arguments/Theory/out/production/classes/
+/Topics/Constructor/A required part of a class/out/
+/Topics/Constructor/A required part of a class/out/production/classes/
+/Topics/Constructor/Account and its owner/out/
+/Topics/Constructor/Account and its owner/out/production/classes/
+/Topics/Constructor/Characterize the constructors/out/
+/Topics/Constructor/Characterize the constructors/out/production/classes/
+/Topics/Constructor/Theory/out/
+/Topics/Constructor/Theory/out/production/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/Debugging techniques/Theory/out/
+/Topics/Debugging techniques/Theory/out/production/classes/
+/Topics/Exception handling/Catching some exceptions/out/
+/Topics/Exception handling/Catching some exceptions/out/production/classes/
+/Topics/Exception handling/Method named process/out/
+/Topics/Exception handling/Method named process/out/production/classes/
+/Topics/Exception handling/Theory/out/
+/Topics/Exception handling/Theory/out/production/classes/
+/Topics/Exception handling/What exceptions can be handled/out/
+/Topics/Exception handling/What exceptions can be handled/out/production/classes/
+/Topics/Files/A relative path/out/
+/Topics/Files/A relative path/out/production/classes/
+/Topics/Files/Are siblings/out/
+/Topics/Files/Are siblings/out/production/classes/
+/Topics/Files/Getting information/out/
+/Topics/Files/Getting information/out/production/classes/
+/Topics/Files/Theory/out/
+/Topics/Files/Theory/out/production/classes/
+/Topics/Files/Сorrect statements/out/
+/Topics/Files/Сorrect statements/out/production/classes/
+/Topics/Generics and Object/Boxes are not just objects/out/
+/Topics/Generics and Object/Boxes are not just objects/out/production/classes/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/
+/Topics/Generics and Object/Correct the usage of non-generic class/out/production/classes/
+/Topics/Generics and Object/Theory/out/
+/Topics/Generics and Object/Theory/out/production/classes/
+/Topics/Generics and Object/What is a type/out/
+/Topics/Generics and Object/What is a type/out/production/classes/
+/Topics/Hiding and overriding/Publications/out/
+/Topics/Hiding and overriding/Publications/out/production/classes/
+/Topics/Hiding and overriding/Saying animals/out/
+/Topics/Hiding and overriding/Saying animals/out/production/classes/
+/Topics/Hiding and overriding/Shapes area/out/
+/Topics/Hiding and overriding/Shapes area/out/production/classes/
+/Topics/Hiding and overriding/Theory/out/
+/Topics/Hiding and overriding/Theory/out/production/classes/
+/Topics/Hierarchy of exceptions/BadRequestException/out/
+/Topics/Hierarchy of exceptions/BadRequestException/out/production/classes/
+/Topics/Hierarchy of exceptions/Base classes of RuntimeException/out/
+/Topics/Hierarchy of exceptions/Base classes of RuntimeException/out/production/classes/
+/Topics/Hierarchy of exceptions/Subclasses of RuntimeException/out/
+/Topics/Hierarchy of exceptions/Subclasses of RuntimeException/out/production/classes/
+/Topics/Hierarchy of exceptions/Theory/out/
+/Topics/Hierarchy of exceptions/Theory/out/production/classes/
+/Topics/Instance methods/Car/out/
+/Topics/Instance methods/Car/out/production/classes/
+/Topics/Instance methods/Circle/out/
+/Topics/Instance methods/Circle/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/Instance method and its class/out/
+/Topics/Instance methods/Instance method and its class/out/production/classes/
+/Topics/Instance methods/Invoke instance method/out/
+/Topics/Instance methods/Invoke instance method/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Integer types and operations/Good rest on vacation/out/
+/Topics/Integer types and operations/Good rest on vacation/out/production/classes/
+/Topics/Integer types and operations/Reversing input numbers/out/
+/Topics/Integer types and operations/Reversing input numbers/out/production/classes/
+/Topics/Integer types and operations/Theory/out/
+/Topics/Integer types and operations/Theory/out/production/classes/
+/Topics/Interface/Area of a circle/out/
+/Topics/Interface/Area of a circle/out/production/classes/
+/Topics/Interface/Implementing an interface/out/
+/Topics/Interface/Implementing an interface/out/production/classes/
+/Topics/Interface/Mutable geometric shapes/out/
+/Topics/Interface/Mutable geometric shapes/out/production/classes/
+/Topics/Interface/Properties of methods/out/
+/Topics/Interface/Properties of methods/out/production/classes/
+/Topics/Interface/Theory/out/
+/Topics/Interface/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Correct the program/out/
+/Topics/Introduction to generic programming/Correct the program/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/Iterating over arrays/Boxes/out/
+/Topics/Iterating over arrays/Boxes/out/production/classes/
+/Topics/Iterating over arrays/Find the sum/out/
+/Topics/Iterating over arrays/Find the sum/out/production/classes/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/
+/Topics/Iterating over arrays/Sum array elements greater than a value/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Objects/Accessing fields/out/
+/Topics/Objects/Accessing fields/out/production/classes/
+/Topics/Objects/Null or not/out/
+/Topics/Objects/Null or not/out/production/classes/
+/Topics/Objects/Theory/out/
+/Topics/Objects/Theory/out/production/classes/
+/Topics/Objects/What is the value of a field/out/
+/Topics/Objects/What is the value of a field/out/production/classes/
+/Topics/Overloading/Determine the output/out/
+/Topics/Overloading/Determine the output/out/production/classes/
+/Topics/Overloading/Print/out/
+/Topics/Overloading/Print/out/production/classes/
+/Topics/Overloading/Theory/out/
+/Topics/Overloading/Theory/out/production/classes/
+/Topics/Package/A keyword for importing a class/out/
+/Topics/Package/A keyword for importing a class/out/production/classes/
+/Topics/Package/Creating instances/out/
+/Topics/Package/Creating instances/out/production/classes/
+/Topics/Package/Purpose/out/
+/Topics/Package/Purpose/out/production/classes/
+/Topics/Package/Sorting arrays/out/
+/Topics/Package/Sorting arrays/out/production/classes/
+/Topics/Package/The default import/out/
+/Topics/Package/The default import/out/production/classes/
+/Topics/Package/Theory/out/
+/Topics/Package/Theory/out/production/classes/
+/Topics/Polymorphism/Publication and its subclasses/out/
+/Topics/Polymorphism/Publication and its subclasses/out/production/classes/
+/Topics/Polymorphism/Runtime polymorphic behavior/out/
+/Topics/Polymorphism/Runtime polymorphic behavior/out/production/classes/
+/Topics/Polymorphism/Statements/out/
+/Topics/Polymorphism/Statements/out/production/classes/
+/Topics/Polymorphism/Theory/out/
+/Topics/Polymorphism/Theory/out/production/classes/
+/Topics/Polymorphism/Type of polymorphism/out/
+/Topics/Polymorphism/Type of polymorphism/out/production/classes/
+/Topics/Static members/About static members/out/
+/Topics/Static members/About static members/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
+/Topics/Static members/Too many cats/out/
+/Topics/Static members/Too many cats/out/production/classes/
+/Topics/Strategy/About the pattern/out/
+/Topics/Strategy/About the pattern/out/production/classes/
+/Topics/Strategy/Benefits/out/
+/Topics/Strategy/Benefits/out/production/classes/
+/Topics/Strategy/Max and Min/out/
+/Topics/Strategy/Max and Min/out/production/classes/
+/Topics/Strategy/Pick your team/out/
+/Topics/Strategy/Pick your team/out/production/classes/
+/Topics/Strategy/Select one statement/out/
+/Topics/Strategy/Select one statement/out/production/classes/
+/Topics/Strategy/Theory/out/
+/Topics/Strategy/Theory/out/production/classes/
+/Topics/Template method/A disadvantage/out/
+/Topics/Template method/A disadvantage/out/production/classes/
+/Topics/Template method/Build a house/out/
+/Topics/Template method/Build a house/out/production/classes/
+/Topics/Template method/Template Method/out/
+/Topics/Template method/Template Method/out/production/classes/
+/Topics/Template method/Theory/out/
+/Topics/Template method/Theory/out/production/classes/
+/Topics/Template method/What does it do/out/
+/Topics/Template method/What does it do/out/production/classes/
+/Topics/The Collections Framework overview/Squaring numbers/out/
+/Topics/The Collections Framework overview/Squaring numbers/out/production/classes/
+/Topics/The Collections Framework overview/Supported collections/out/
+/Topics/The Collections Framework overview/Supported collections/out/production/classes/
+/Topics/The Collections Framework overview/Theory/out/
+/Topics/The Collections Framework overview/Theory/out/production/classes/
+/Topics/The keyword super/Fix the non-compiled hierarchy/out/
+/Topics/The keyword super/Fix the non-compiled hierarchy/out/production/classes/
+/Topics/The keyword super/Theory/out/
+/Topics/The keyword super/Theory/out/production/classes/
+/Topics/The keyword super/When the keyword is used/out/
+/Topics/The keyword super/When the keyword is used/out/production/classes/
+/Topics/The List interface/Equal lists/out/
+/Topics/The List interface/Equal lists/out/production/classes/
+/Topics/The List interface/Mutable lists/out/
+/Topics/The List interface/Mutable lists/out/production/classes/
+/Topics/The List interface/The longest string in the list/out/
+/Topics/The List interface/The longest string in the list/out/production/classes/
+/Topics/The List interface/Theory/out/
+/Topics/The List interface/Theory/out/production/classes/
+/Topics/The Map interface/Basics of Maps/out/
+/Topics/The Map interface/Basics of Maps/out/production/classes/
+/Topics/The Map interface/Displaying pairs/out/
+/Topics/The Map interface/Displaying pairs/out/production/classes/
+/Topics/The Map interface/Kidnapper of Ice cream/out/
+/Topics/The Map interface/Kidnapper of Ice cream/out/production/classes/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/
+/Topics/The Map interface/Sherlock Holmes and the mystery of anagrams/out/production/classes/
+/Topics/The Map interface/Theory/out/
+/Topics/The Map interface/Theory/out/production/classes/
+/Topics/The Set interface/Creating a set/out/
+/Topics/The Set interface/Creating a set/out/production/classes/
+/Topics/The Set interface/Removing elements/out/
+/Topics/The Set interface/Removing elements/out/production/classes/
+/Topics/The Set interface/The size of a set/out/
+/Topics/The Set interface/The size of a set/out/production/classes/
+/Topics/The Set interface/Theory/out/
+/Topics/The Set interface/Theory/out/production/classes/
+/Topics/What are collections/Initialize a collection/out/
+/Topics/What are collections/Initialize a collection/out/production/classes/
+/Topics/What are collections/The relations between Java and CS/out/
+/Topics/What are collections/The relations between Java and CS/out/production/classes/
+/Topics/What are collections/Theory/out/
+/Topics/What are collections/Theory/out/production/classes/
